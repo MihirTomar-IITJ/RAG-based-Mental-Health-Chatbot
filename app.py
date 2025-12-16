@@ -7,7 +7,7 @@ from langchain_classic.prompts import PromptTemplate
 from langchain_classic.chains import RetrievalQA
 
 # Set API Keys
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCPToG3uYMof94dduZ2W0nfjQSXPz6Gyz4"
+os.environ["GOOGLE_API_KEY"] = "Add your key"
 
 # Load Embeddings
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
