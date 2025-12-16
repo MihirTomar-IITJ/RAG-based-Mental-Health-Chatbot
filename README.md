@@ -2,8 +2,6 @@
 
 A customized mental health chatbot designed to provide empathetic support and mental health resources. This application utilizes **Google's Gemini** models and a **RAG (Retrieval-Augmented Generation)** architecture to deliver context-aware responses grounded in verified documents.
 
-![Chainlit UI](https://chainlit.io/assets/logo_dark.svg) 
-*(Replace with actual screenshot if available)*
 
 ## Features
 
